@@ -1,4 +1,4 @@
 streamlit
 pandas
-mysql-connector-python==8.0.33
+mysql-connector-python
 bcrypt
