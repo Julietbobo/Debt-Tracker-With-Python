@@ -25,7 +25,7 @@ Developed a full-stack debt tracking web application using **Python (Streamlit)*
 -  Add, edit, delete, and view debts (CRUD)
 -  Real-time debt and payment updates
 -  Dashboard with KPIs: total debt, paid amounts, active debtors
--  Data displayed using `pandas.DataFrame` for readability
+-  Data displayS using `pandas.DataFrame` for readability
 -  Session handling using `st.session_state`
 
 ---
