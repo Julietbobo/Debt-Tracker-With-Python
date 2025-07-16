@@ -9,7 +9,7 @@ Developed a full-stack debt tracking web application using **Python (Streamlit)*
 - **Python** – Main programming language for logic and backend connection
 - **Streamlit** – For building the interactive web interface
 - **pandas** – Used for processing SQL results and displaying data
-- **MySQL** – Backend database for users, debts, and payments
+- **MySQL** – Backend database for users, debts, and payments and a trigger for deleting debtors who clear their debts
 - **bcrypt** – For secure password encryption
 - **Google Cloud Platform (GCP)** – Hosted on Compute Engine (VM instance)
 
