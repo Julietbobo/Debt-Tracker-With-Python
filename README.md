@@ -1,7 +1,7 @@
 #  Debt Tracker – Personal Project Summary
 
 ## 💡 Project Overview  
-Developed a full-stack debt tracking web application using **Python (Streamlit)** and **MySQL** to help small-scale vendors (e.g., mama mbogas, shopkeepers) record, track, and manage customer debts. Connected the app (hosted on Streamlit Community Cloud) to a MySQL database server deployed on Google Cloud Virtual Machine, enabling secure login, debt recording, real-time payment tracking, and interactive dashboards.
+Developed a full-stack debt tracking web application using **Python (Streamlit)** and **MySQL** to help small-scale vendors (e.g., mama mbogas, shopkeepers) record, track, and manage customer debts. Connected the app (hosted on Streamlit Community Cloud) to a MySQL database server deployed on Google Cloud Virtual Machine, enabling secure login, debt recording, real-time payment tracking, and interactive dashboards. Interact with the app [here](https://lnkd.in/dfAMtqRx)
 
 ---
 
